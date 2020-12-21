@@ -18,7 +18,7 @@ This program makes it easy to unlock bootloaders of various smartphone brands us
 ### INSTRUCTIONS
 #### FOR WINDOWS
 - Install Python3 from the official website: https://www.python.org/
-- Double click on Android_Unlocker-V1.0.0.py or open with Python
+- Open the cmd and start the program by typing `<dir python.exe> <dir Android_Unlocker-V1.0.0.py>`. remember to also write `python.exe` and `Android_Unlocker-V1.0.0.py`. ES. `C:\python\python.exe C:\Users\<name of your user>\Download\Android_Unlocker-V1.0.0.py`
 - Follow the instructions displayed in the program
 #### OR LINUX
 - Open the terminal and type `sudo apt install python3` to install Python3
