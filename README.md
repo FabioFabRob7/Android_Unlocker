@@ -18,10 +18,12 @@ ALL DATA WILL BE DELETED AND THE WARRANTY WILL BE LOST!!!
 - General Devices OLD
 ### INSTRUCTIONS
 #### FOR WINDOWS
+- Enable OEM Unlock and ADB Debug on your smartphone (Developer Settings)
 - Install Python3 from the official website: https://www.python.org/
 - Open the cmd and start the program by typing `<dir python.exe> <dir Android_Unlocker-V1.0.0.py>`. remember to also write `python.exe` and `Android_Unlocker-V1.0.0.py`. ES. `C:\python\python.exe C:\Users\<name of your user>\Download\Android_Unlocker-V1.0.0.py`
 - Follow the instructions displayed in the program
 #### OR LINUX
+- Enable OEM Unlock and ADB Debug on your smartphone (Developer Settings)
 - Open the terminal and type `sudo apt install python3` to install Python3
 - Now type `python3 <dir file Android_Unlocker-V1.0.0.py>` remember to also write Android_Unlocker-V1.0.0.py
 - Follow the instructions displayed in the program
