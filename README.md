@@ -6,7 +6,7 @@
 - CMD(Windows), PowerShell(Windows) or Terminal(Linux)
 ### INFO
 This program makes it easy to unlock bootloaders of various smartphone brands using FASTBOOT and ADB (Android Debug Bridge) following the official unlocking modes and also unlocking for general devices.
-All data will be deleted and the warranty will be lost
+ALL DATA WILL BE DELETED AND THE WARRANTY WILL BE LOST!!! 
 ### SUPPORTED DEVICES
 - Google Pixel Phone
 - Huawei
