@@ -25,5 +25,5 @@ ALL DATA WILL BE DELETED AND THE WARRANTY WILL BE LOST!!!
 #### OR LINUX
 - Enable OEM Unlock and ADB Debug on your smartphone (Developer Settings)
 - Open the terminal and type `sudo apt install python3` to install Python3
-- Now type `python3 <dir file Android_Unlocker-V1.0.0.py>` remember to also write Android_Unlocker-V1.0.0.py
+- Now type `python3 <dir file Android_Unlocker-V1.0.0.py>` remember to also write `Android_Unlocker-V1.0.0.py`
 - Follow the instructions displayed in the program
